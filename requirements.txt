@@ -1,0 +1,7 @@
+Topology
+fastapi
+numpy>=1.26.0,<3.0.0
+pydantic
+pytest
+structlog
+httpx2>=2.0.0

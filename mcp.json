@@ -1,0 +1,15 @@
+{
+  "name": "ecosystem-control-plane-8398",
+  "version": "1.0.0",
+  "description": "The central governance, operating system, and digital twin for the entire repository ecosystem.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
